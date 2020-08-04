@@ -1,0 +1,1 @@
+web: gunicorn Stepik_tours_week2.wsgi --log-file -
